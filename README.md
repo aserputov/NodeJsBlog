@@ -1,2 +1,2 @@
 # Blog
-Simple, fast CRUD application. Created with EJS.(Previously made with Handlebars )
+Simple, fast CRUD application. Created with EJS.(Previously made with Handlebars)
