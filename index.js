@@ -31,7 +31,7 @@ const mongoose = require("mongoose");
 mongoose.set("useCreateIndex", true);
 
 mongoose.connect(
-  "mongodb+srv://serputov:serputov@cluster0.ftpdg.mongodb.net/ads?retryWrites=true&w=majority",
+  "",
   { useNewUrlParser: true, useUnifiedTopology: true }
 );
 
